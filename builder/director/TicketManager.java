@@ -15,7 +15,7 @@ public class TicketManager {
         ticket = tkBuilder;
     }
 
-    public void BuildTicket() {
+    public void buildTicket() {
         ticket.buildNumber();
 
         ticket.buildName();

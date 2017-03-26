@@ -10,7 +10,7 @@ public class BuilderClient1 {
     public static void main(String[] args){
         TicketManager tkManager = new TicketManager(new CaixaTicketBuilder());
         
-        tkManager.BuildTicket();
+        tkManager.buildTicket();
         
         Ticket ticket = tkManager.getTicket();
         System.out.println("Número: " + ticket.number
@@ -23,7 +23,7 @@ public class BuilderClient1 {
         
         tkManager = new TicketManager(new BBTicketBuilder());
         
-        tkManager.BuildTicket();
+        tkManager.buildTicket();
         
         ticket = tkManager.getTicket();
         System.out.println("Número: " + ticket.number
@@ -36,7 +36,7 @@ public class BuilderClient1 {
         
         tkManager = new TicketManager(new ItauTicketBuilder());
         
-        tkManager.BuildTicket();
+        tkManager.buildTicket();
         
         ticket = tkManager.getTicket();
         System.out.println("Número: " + ticket.number
