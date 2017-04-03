@@ -8,7 +8,7 @@ import concreteCreator.FordFactory;
 import concreteCreator.VolksFactory;
 import creator.CarFactory;
 
-public class FactoryMethod1 {
+public class FactoryMethodClient1 {
     public static void main(String[] args){
         String str = null;
         CarFactory cf = null;
