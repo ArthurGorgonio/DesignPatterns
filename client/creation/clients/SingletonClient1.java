@@ -1,7 +1,7 @@
 /**
  * 
  */
-package clients;
+package creation.clients;
 
 import uniqueInstance.Singleton;
 
@@ -9,7 +9,7 @@ import uniqueInstance.Singleton;
  * @author arthur
  *
  */
-public class SingletonClient {
+public class SingletonClient1 {
 
     /**
      * @param args

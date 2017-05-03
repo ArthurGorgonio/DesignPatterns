@@ -1,7 +1,7 @@
 /**
  * 
  */
-package clients;
+package creation.clients;
 
 import singleton.Singleton2;
 
@@ -9,7 +9,7 @@ import singleton.Singleton2;
  * @author arthur
  *
  */
-public class TesteIncremental {
+public class SingletonClient2 {
 
     /**
      * @param args

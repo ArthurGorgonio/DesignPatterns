@@ -1,4 +1,4 @@
-package clients;
+package creation.clients;
 
 import builders.NintendoGameBuilder;
 import builders.PlaystationGameBuilder;
