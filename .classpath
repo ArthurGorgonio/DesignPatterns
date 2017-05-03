@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="client"/>
-	<classpathentry kind="src" path="abstractFactory"/>
-	<classpathentry kind="src" path="abstractFactory2"/>
-	<classpathentry kind="src" path="builder"/>
-	<classpathentry kind="src" path="builder2"/>
-	<classpathentry kind="src" path="factoryMethod"/>
-	<classpathentry kind="src" path="singleton"/>
-	<classpathentry kind="src" path="singleton2"/>
+	<classpathentry kind="src" path="creation.abstractFactory1"/>
+	<classpathentry kind="src" path="creation.abstractFactory2"/>
+	<classpathentry kind="src" path="creation.builder1"/>
+	<classpathentry kind="src" path="creation.builder2"/>
+	<classpathentry kind="src" path="creation.factoryMethod1"/>
+	<classpathentry kind="src" path="creation.singleton1"/>
+	<classpathentry kind="src" path="creation.singleton2"/>
+	<classpathentry kind="src" path="structural.decorator1"/>
+	<classpathentry kind="src" path="structural.decorator2"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
